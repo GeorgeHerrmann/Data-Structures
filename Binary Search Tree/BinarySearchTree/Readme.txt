@@ -1,6 +1,6 @@
 Name: George Herrmann
-UGA ID: 811-269-387
-UGA Email: gvh12771@uga.edu
+
+Provides an implementation of a Binary Search Tree as well as some utility methods for it
 
 To compile:
     - Type make into standard input
