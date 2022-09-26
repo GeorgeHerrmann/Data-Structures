@@ -1,6 +1,6 @@
 Name: George Herrmann
-UGA ID: 811-269-387
-UGA Email: gvh12771@uga.edu
+
+Provides an implementation for some common sorting algorithms as well as a driver class for them.
 
 To Compile:
     - Type make into the console
